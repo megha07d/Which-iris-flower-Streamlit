@@ -54,3 +54,4 @@ st.write(iris.target_names[prediction])
 st.subheader('Prection probability')
 st.write(prediction_proba)
 
+#cloned to local sys
